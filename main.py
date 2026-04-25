@@ -7,7 +7,7 @@ while True:
     if choice==1:
         print("Starting the game...")
         game()
-    elif choice == 2:1
+    elif choice == 2:
         print("Exiting the game...")
         break
     else:
